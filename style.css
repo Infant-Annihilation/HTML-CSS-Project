@@ -1,9 +1,10 @@
 body {
      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #ffffff;
-    background-color: purple;
     margin: 20px;
     text-align: center;
+    background-color: purple;
+    background-image: url("topography.svg");
 }
 
 p, ul, ol, table {
